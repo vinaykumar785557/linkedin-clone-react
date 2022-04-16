@@ -4,10 +4,15 @@
 https://linkedin-clone-97b66.web.app/
 
 
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+
+
+## Demo Link
+
+
+
+![linkedin-clone-react redux](https://user-images.githubusercontent.com/77814463/163657225-8e15c363-bb11-4d00-ba6e-9a47617d3da5.gif)
+
 
 ## Available Scripts
 
